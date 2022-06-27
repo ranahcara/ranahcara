@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Ranah Cara</title>
-        <link>https://example.com/categories/</link>
+        <link>https://ranahcara.github.io/categories/</link>
         <description>Recent content in Categories on Ranah Cara</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="https://ranahcara.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Android</title>
-        <link>https://example.com/categories/android/</link>
+        <link>https://ranahcara.github.io/categories/android/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/android/</guid>
+        <guid>https://ranahcara.github.io/categories/android/</guid>
         <description>&lt;img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NU0v_2jVgMvjbE7WR3oKL8mjN90mQg_jsw&usqp=CAU" alt="Featured image of post Android" /&gt;</description>
         </item>
         <item>
         <title>Tips Trick</title>
-        <link>https://example.com/categories/tips-trick/</link>
+        <link>https://ranahcara.github.io/categories/tips-trick/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/tips-trick/</guid>
+        <guid>https://ranahcara.github.io/categories/tips-trick/</guid>
         <description>&lt;img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7orTdxJ_3q8D2rs5gRyvY1DZFZ5WMgdzNuw&usqp=CAU" alt="Featured image of post Tips Trick" /&gt;</description>
         </item>
         
